@@ -1,13 +1,2 @@
-Vulnerable Endpoint, No. of Parameters, Vulnerable Parameters
-/$root/jsps/enqrequest.jsp, 11, enqaction, enqname, routineArgs, skin, compId, compScreen, windowName, user, reqTabid, WS_replaceAll, WS_parentComposite
-/$root/jsps/about.jsp, 2, skin, release
-/$root/jsps/continue.jsp, 5, cfwstage, compId, skin, user, windowName
-/$root/jsps/customMessage.jsp, 1, Message
-/$root/jsps/dropdown.jsp, 9, title, routineArgs, routineName, searchCriteria, dropfield, compId, skin, windowName, parentWin
-/$root/jsps/fileUpload.jsp, 4, skin, trans_upload, trans_uploading, fragment
 /$root/jsps/genDocRequest.jsp, 3, imageId, isPopUp, enqid
 /$root/jsps/helprequest.jsp, 1, url
-/$root/jsps/submitWindow.jsp, 7, requestType, routineArgs, companyId, unlock, closing, pwprocessid, windowName
-/$root/jsps/svgInstall.jsp, 1, skin
-/$root/jsps/txnrequest.jsp, 5, routineArgs, compId, compScreen, user, skin
-/$root/jsps/genrequest.jsp, 6, routineName, routineArgs, skin, compId, compScreen, user
