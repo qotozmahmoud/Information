@@ -1,2 +1,2 @@
-/$root/jsps/genDocRequest.jsp, 3, imageId, isPopUp, enqid
+/$root/jsps/genDocRequest.jsp, 3, "imageId, isPopUp, enqid"
 /$root/jsps/helprequest.jsp, 1, url
